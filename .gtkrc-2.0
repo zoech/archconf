@@ -1,0 +1,18 @@
+# -- THEME AUTO-WRITTEN DO NOT EDIT
+#include "/usr/share/themes/Clearlooks/gtk-2.0/gtkrc"
+#include "/usr/share/themes/FlatBorderless/gtk-2.0/gtkrc"
+#include "/usr/share/themes/Futura-Blue/gtk-2.0/gtkrc"
+include "/usr/share/themes/FlattasticBlueLight/gtk-2.0/gtkrc"
+#include "/usr/share/themes/Paper/gtk-2.0/gtkrc"
+#include "/usr/share/themes/Flattice/gtk-2.0/gtkrc"
+#include "/usr/share/themes/IrisLight/gtk-2.0/gtkrc"
+include "/home/zoey/.gtkrc.mine"
+gtk-icon-theme-name  = "flattr-icons"
+#gtk-icon-theme-name  = "Paper"
+gtk-theme-name = "FlattasticBlueLight"
+#gtk-theme-name = "Paper"
+#gtk-theme-name = "Iris"
+gtk-font-name = "Sans Serif 9"
+#gtk-font-name = "Sans Serif 9"
+
+# -- THEME AUTO-WRITTEN DO NOT EDIT

@@ -1,0 +1,4 @@
+#!/bin/bash
+# see my bash_profile
+
+echo >> ~/.notify/$1 $2

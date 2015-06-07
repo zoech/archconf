@@ -1,0 +1,25 @@
+=========================
+FCITX 4.2.8.5 -- Get Signal No.: 6
+Date: try "date -d @1432991765" if you are using GNU date ***
+ProcessID: 7907
+fcitx[0x4015db]
+/usr/lib/libc.so.6(+0x335b0)[0x7f168b2a85b0]
+/usr/lib/libc.so.6(gsignal+0x38)[0x7f168b2a8528]
+/usr/lib/libc.so.6(abort+0x16a)[0x7f168b2a993a]
+/usr/lib/libc.so.6(+0x2c3a7)[0x7f168b2a13a7]
+/usr/lib/libc.so.6(+0x2c452)[0x7f168b2a1452]
+/usr/lib/libgooglepinyin.so.0(_ZN10ime_pinyin12MatrixSearch18cancel_last_choiceEv+0x110)[0x7f167de0c500]
+/usr/lib/fcitx/fcitx-googlepinyin.so(+0x2b2e)[0x7f167e022b2e]
+/usr/lib/libfcitx-core.so.0(FcitxInstanceProcessKey+0x6dc)[0x7f168bc7886c]
+/usr/lib/fcitx/fcitx-xim.so(+0x4d51)[0x7f167d5cad51]
+/usr/lib/fcitx/fcitx-xim.so(+0x3d4f)[0x7f167d5c9d4f]
+/usr/lib/fcitx/fcitx-xim.so(+0xf0fc)[0x7f167d5d50fc]
+/usr/lib/fcitx/fcitx-xim.so(+0xf8f2)[0x7f167d5d58f2]
+/usr/lib/fcitx/fcitx-xim.so(+0x1245e)[0x7f167d5d845e]
+/usr/lib/fcitx/fcitx-x11.so(+0x38e6)[0x7f168a36b8e6]
+/usr/lib/fcitx/fcitx-x11.so(+0x3b53)[0x7f168a36bb53]
+/usr/lib/libfcitx-core.so.0(+0xa536)[0x7f168bc6c536]
+/usr/lib/libfcitx-core.so.0(FcitxInstanceRun+0x210)[0x7f168bc6cc40]
+fcitx[0x400f96]
+/usr/lib/libc.so.6(__libc_start_main+0xf0)[0x7f168b295790]
+fcitx(_start+0x29)[0x401009]

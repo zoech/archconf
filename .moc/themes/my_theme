@@ -1,0 +1,37 @@
+# my_theme produced by modifying Transparent background 
+# theme by Marcin Michałowski
+background		= default		default
+frame			= black		default
+window_title		= green		default
+directory		= red		default	bold
+selected_directory	= yellow		default	bold
+playlist		= white		default	bold
+selected_playlist	= white		blue	bold
+file			= cyan		default
+selected_file	= green		default
+marked_file		= magenta		default	bold
+marked_selected_file	= red		default	bold
+info			= yellow		default	bold
+selected_info	= green 	default
+marked_info		= magenta		default
+marked_selected_info	=	red	default
+status			= magenta		default	blink
+title			= cyan		default	bold
+state			= yellow	default	blink
+current_time		= magenta		default	bold
+time_left		= green		default	bold
+total_time		= cyan		default	bold
+time_total_frames	= white		default
+sound_parameters	= yellow		default	bold
+legend			= magenta		default
+disabled		= black		default	bold
+enabled			= green		default	bold
+empty_mixer_bar		= yellow		default
+filled_mixer_bar	= black		magenta
+empty_time_bar		= white		default
+filled_time_bar		= black		green
+entry			= yellow		default
+entry_title		= magenta	default	
+error			= red		default	bold
+message			= green		default	bold
+plist_time		= magenta		default	bold

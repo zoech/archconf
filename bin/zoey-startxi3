@@ -1,0 +1,23 @@
+#! /bin/bash
+# personal script,used to startxfce4 with nvidia drviers 
+# xorg.conf and ~/xinitrc setting
+
+if [ -f ~/.xinitrc-used-by-personal-script ];then
+	sed '$a\exec i3' ~/.xinitrc-used-by-personal-script > ~/.xinitrc
+	startx
+else
+	echo "file ~/.xinitrc-used-by-personal-script not exit,please see /bin/zoey-startxfce4 for help"
+fi
+
+
+# HELP:
+# if the file ~/.xinitrc-used-by-personal-script not exits,you can copy the file
+# /etc/skel/.xinitrc to your home directory and name it as .xinitrc-used-by-personal-script,
+# and important:add the below two lines at the begining of this file:
+
+#xrandr --setprovideroutputsource modesetting NVIDIA-0
+#xrandr --auto
+
+# then use zoey-startxfce4 again to see if you can get xorg work correctly.
+# if it still not work ,that means your nvidia cards' driver may have some
+# problems to work,check your nvidia drivers.
