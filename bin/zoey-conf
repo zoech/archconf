@@ -5,7 +5,7 @@ decdir=~
 
 for file in $(ls -a $srcdir)
 do
-	if [ $file == .git -o $file == . -o $file == .. -o $file == .gitignore ] ; then
+	if [ $file == .git -o $file == . -o $file == .. -o $file == .gitignore -o $file == etc ] ; then
 		continue
 	fi
 

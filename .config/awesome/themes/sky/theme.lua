@@ -6,7 +6,8 @@
 
 -- BASICS
 theme = {}
-theme.font          = "sans 8"
+-- theme.font          = "sans 8"
+theme.font          = "comic sans ms 8"
 
 theme.bg_focus      = "#e2eeea"
 theme.bg_normal     = "#729fcf"

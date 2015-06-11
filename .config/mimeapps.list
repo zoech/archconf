@@ -30,6 +30,12 @@ x-scheme-handler/mailto=userapp-Thunderbird-MAORZX.desktop;
 message/rfc822=userapp-Thunderbird-MAORZX.desktop;
 application/x-extension-eml=userapp-Thunderbird-MAORZX.desktop;
 image/png=feh.desktop;
+application/x-rar=xarchiver.desktop;
+image/gif=feh.desktop;
+application/x-font-ttf=gvim.desktop;leafpad.desktop;
+application/x-ms-dos-executable=gvim.desktop;
+application/vnd.oasis.opendocument.text=libreoffice-writer.desktop;
+application/vnd.openxmlformats-officedocument.presentationml.presentation=libreoffice-impress.desktop;
 
 [Default Applications]
 x-scheme-handler/http=userapp-Firefox-2URGZX.desktop

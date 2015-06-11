@@ -12,7 +12,7 @@ gtk-icon-theme-name  = "flattr-icons"
 gtk-theme-name = "FlattasticBlueLight"
 #gtk-theme-name = "Paper"
 #gtk-theme-name = "Iris"
-gtk-font-name = "Sans Serif 9"
+gtk-font-name = "comic sans ms 9"
 #gtk-font-name = "Sans Serif 9"
 
 # -- THEME AUTO-WRITTEN DO NOT EDIT

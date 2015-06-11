@@ -52,7 +52,7 @@ IMSwitchHotkey=ALT_SHIFT
 # Reload configuration
 #ReloadConfig=CTRL_5
 # Interval of Two Key Input
-#TimeInterval=250
+TimeInterval=254
 # Switching Virtual Keyboard
 #VKSwitchKey=CTRL_ALT_B
 # Switching Remind Mode

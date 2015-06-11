@@ -1,0 +1,15 @@
+# 
+# /etc/fstab: static file system information
+#
+# <file system>	<dir>	<type>	<options>	<dump>	<pass>
+# UUID=4887c0a4-95ae-4042-a41b-6a4514ff9005
+/dev/sda4           	/         	ext4      	rw,relatime,data=ordered	0 1
+
+# UUID=1e469be2-b051-4375-8b0c-dc9efb30108a
+/dev/sda3           	/boot     	ext2      	rw,relatime	0 2
+
+# UUID=f51aa539-4bc7-4b19-a445-996fcfc4c4fb
+/dev/sda8           	none      	swap      	defaults  	0 0
+
+# the partition that will be shared by two gnu/linux os
+#/dev/sda10			/home/zoey/share	etx2	user,noatime	0 0
