@@ -36,6 +36,7 @@ application/x-font-ttf=gvim.desktop;leafpad.desktop;
 application/x-ms-dos-executable=gvim.desktop;
 application/vnd.oasis.opendocument.text=libreoffice-writer.desktop;
 application/vnd.openxmlformats-officedocument.presentationml.presentation=libreoffice-impress.desktop;
+application/x-bzip=xarchiver.desktop;
 
 [Default Applications]
 x-scheme-handler/http=userapp-Firefox-2URGZX.desktop

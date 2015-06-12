@@ -221,3 +221,14 @@ hi CursorColumn cterm=bold ctermbg=black ctermfg=none guibg=none guifg=none
 
 "set the gvim attr
 colorscheme desert
+
+" 状态栏
+set laststatus=2      " 总是显示状态栏
+highlight StatusLine cterm=bold ctermfg=yellow ctermbg=blue
+" 获取当前路径，将$HOME转化为~
+function! CurDir()
+	let curdir = substitute(getcwd(), $HOME, "~", "g")
+        return curdir
+endfunction
+set statusline=[%n]\ %f%m%r%h\ \|\ pwd:\ %{CurDir()}\ \|%=\|\ ascii=%b\ \|\ %l,%c\ %p%%\%{((&fenc==\"\")?\"\":\"\ \|\ \".&fenc)}
+",hex=%b%{((&fenc==\"\")?\"\":\"\ \|\ \".&fenc)}\ \|\ %{$USER}\ @\ %{hostname()}\
