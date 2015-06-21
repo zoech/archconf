@@ -1,0 +1,10 @@
+{
+	"server" : "ss1.hidess.cc",
+	"server_port" : 8633,
+	"local_address" : "127.0.0.1",
+	"local_port" : 1080,
+	"password" : "freehide.co.uk",
+	"timeout" : 600,
+	"method" : "aes-256-cfb",
+	"workers" : 1
+}
