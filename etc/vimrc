@@ -204,26 +204,15 @@ set listchars=tab:--,space:▋
 set tabstop=4
 set cursorline
 set cursorcolumn
-hi Normal cterm=bold
-hi Comment ctermfg=6 cterm=bold guibg=NONE guifg=LightCyan
-hi String cterm=bold ctermfg=red
-hi Constant cterm=bold ctermfg=red
-hi Number cterm=bold ctermfg=red
-hi Character cterm=bold ctermfg=red
-hi Starement cterm=bold
-hi Keyword cterm=bold ctermfg=red
-hi Special cterm=bold ctermfg=red
-hi SpecialChar cterm=bold ctermfg=red
-hi Function cterm=bold ctermfg=magenta guibg=NONE guifg=Purple
 hi CursorLine cterm=bold ctermbg=black ctermfg=none guibg=NONE guifg=NONE
 hi CursorColumn cterm=bold ctermbg=black ctermfg=none guibg=none guifg=none
 
 
 
-" 状态栏
-set laststatus=2      " 总是显示状态栏
+" statusline
+set laststatus=2      " always shows status line
 highlight StatusLine cterm=bold ctermfg=yellow ctermbg=blue
-" 获取当前路径，将$HOME转化为~
+" get pwd,change $HOME to ~
 function! CurDir()
 	let curdir = substitute(getcwd(), $HOME, "~", "g")
         return curdir
