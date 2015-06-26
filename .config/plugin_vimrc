@@ -18,7 +18,7 @@ Plugin 'gmarik/Vundle.vim'
 
 " plugin on GitHub repo
 "Plugin 'tpope/vim-fugitive'
-"Plugin 'Yggdroot/indentLine'
+Plugin 'Yggdroot/indentLine'
 Plugin 'nathanaelkane/vim-indent-guides'
 Plugin 'majutsushi/tagbar'
 Plugin 'Valloric/YouCompleteMe'

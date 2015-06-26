@@ -15,6 +15,15 @@ unlet s:homepth
 source ~/.config/mycs.vim
 
 
+""""""""""""""""""""""""""""""""""""
+"   settings for the extra plugins
+"
+"setting for vim-indent-guide
+let g:indent_guides_guide_size = 1
+"
+""""""""""""""""""""""""""""""""""""
+
+
 " some other setting
 if has("gui")
 	set guioptions+=c
