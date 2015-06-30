@@ -18,11 +18,17 @@ source ~/.config/mycs.vim
 """"""""""""""""""""""""""""""""""""
 "   settings for the extra plugins
 "
-"setting for vim-indent-guide
+" setting for vim-indent-guide
 let g:indent_guides_guide_size = 1
 "
 """"""""""""""""""""""""""""""""""""
 
+" settings for programing favor
+set noautoindent
+set nocindent
+set nosmartindent
+"this seems not works with vundle
+imap <Tab> <Char-0x20><Char-0x20><Char-0x20><Char-0x20>
 
 " some other setting
 if has("gui")
@@ -34,3 +40,4 @@ if has("gui")
 	set guioptions-=b
 	set showtabline=0	"hide Tab bar
 endif
+

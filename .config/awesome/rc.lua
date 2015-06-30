@@ -257,57 +257,6 @@ end
 -- }}}
 
 
-
--- {{{ Local function
-
-function get_conky()
-  local clients = client.get()
-  local conky = nil
-  local i = 1
-  while clients[i]
-  do
-    if clients[i].class == "Conky"
-	then
-	  conky = clients[i]
-	end
-	i = i + 1
-  end
-  return conky
-end
-
-function raise_conky()
-  local conky = get_conky()
-  if conky
-  then
-    conky.ontop = true
-  end
-end
-
-function lower_conky()
-  local conky = get_conky()
-  if conky
-  then
-    conky.ontop = false
-  end
-end
-
-function toggle_conky()
-  local conky = get_conky()
-  if conky
-  then
-    if conky.ontop
-	then
-	  conky.ontop = false
-	else
-	  conky.ontop = true
-	end
-  end
-end
-
-
-
--- }}}
-
 -- {{{ Mouse bindings
 root.buttons(awful.util.table.join(
     awful.button({ }, 3, function () mymainmenu:toggle() end),
@@ -369,9 +318,6 @@ globalkeys = awful.util.table.join(
 	awful.key({modkey, "Shift"  }, "m",     function () awful.client.moveresize(0,0,20,0) end),
 	awful.key({modkey, "Shift"  }, "b",     function () awful.client.moveresize(0,0,0,-20) end),
 	awful.key({modkey, "Shift"  }, "n",     function () awful.client.moveresize(0,0,0,20) end),
-
-	-- conky ontop toggle
-	awful.key({modkey}, "F10",function() raise_conky() end, function() lower_conky() end),
 
 
 	--personal adding to client move
