@@ -1,0 +1,26 @@
+[2021-09-10 23:05:51.542] [exthost] [info] extension host started
+[2021-09-10 23:05:51.562] [exthost] [info] Lock '/home/zoey/.config/Code - OSS/User/workspaceStorage/d631e0e799c433ffca7f92cb5a21f678/vscode.lock': Lock acquired.
+[2021-09-10 23:05:51.625] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"extensionId":{"value":"vscode.typescript-language-features","_lower":"vscode.typescript-language-features"},"activationEvent":"onLanguage:javascript"}
+[2021-09-10 23:05:51.625] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/typescript-language-features/dist/extension
+[2021-09-10 23:05:52.183] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2021-09-10 23:05:52.183] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/debug-auto-launch/dist/extension
+[2021-09-10 23:05:52.453] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-09-10 23:05:52.454] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/git/dist/main
+[2021-09-10 23:05:53.989] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug {"startup":false,"extensionId":{"value":"ms-vscode.js-debug","_lower":"ms-vscode.js-debug"},"activationEvent":"onCommand:extension.js-debug.clearAutoAttachVariables"}
+[2021-09-10 23:05:53.990] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/ms-vscode.js-debug/src/extension.js
+[2021-09-10 23:05:57.099] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-09-10 23:05:57.099] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/github/dist/extension.js
+[2021-09-10 23:05:57.418] [exthost] [info] eager extensions activated
+[2021-09-10 23:05:57.439] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":false,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"onStartupFinished"}
+[2021-09-10 23:05:57.439] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/emmet/dist/node/emmetNodeMain
+[2021-09-10 23:05:57.864] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":false,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"onStartupFinished"}
+[2021-09-10 23:05:57.864] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/merge-conflict/dist/mergeConflictMain
+[2021-09-10 23:05:58.452] [exthost] [info] ExtensionService#_doActivateExtension vscode.testing-editor-contributions {"startup":false,"extensionId":{"value":"vscode.testing-editor-contributions","_lower":"vscode.testing-editor-contributions"},"activationEvent":"onStartupFinished"}
+[2021-09-10 23:05:58.452] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/testing-editor-contributions/dist/extension.js
+[2021-09-10 23:06:07.566] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing {"startup":false,"extensionId":{"value":"vscode.extension-editing","_lower":"vscode.extension-editing"},"activationEvent":"onLanguage:typescript"}
+[2021-09-10 23:06:07.566] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/extension-editing/dist/extensionEditingMain
+[2021-09-10 23:34:58.229] [exthost] [info] ExtensionService#_doActivateExtension mhutchie.git-graph {"startup":false,"extensionId":{"value":"mhutchie.git-graph","_lower":"mhutchie.git-graph"},"activationEvent":"*"}
+[2021-09-10 23:34:58.229] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/zoey/.vscode-oss/extensions/mhutchie.git-graph-1.30.0/out/extension.js
+[2021-09-10 23:59:23.959] [exthost] [info] extension host terminating: renderer closed the socket
+[2021-09-10 23:59:24.021] [exthost] [info] Lock '/home/zoey/.config/Code - OSS/User/workspaceStorage/d631e0e799c433ffca7f92cb5a21f678/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+[2021-09-10 23:59:25.058] [exthost] [info] exiting with code 0

@@ -1,0 +1,4 @@
+{
+    "rate_control": "CBR",
+    "use_bufsize": false
+}

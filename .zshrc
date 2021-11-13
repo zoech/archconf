@@ -15,6 +15,8 @@ alias vi='vim'
 alias grep='grep --color'
 alias jp2b='jp2a --height=80'
 alias grepi='grep -i'
+alias tgrep='grep -I'
+alias tgrepi='grep -iI'
 
 #alias zoey-startxawesome='export XSESSION=awesome;startx'
 #alias zoey-startxi3='export XSESSION=i3;startx'
@@ -331,3 +333,15 @@ check-cmd-self-insert() { zle .self-insert && recolor-cmd }
  zle -N backward-delete-char check-cmd-backward-delete-char
 
 
+
+# Add environment variable COCOS_CONSOLE_ROOT for cocos2d-x
+export COCOS_CONSOLE_ROOT="/home/zoey/Downloads/coco/cocos2d-x/tools/cocos2d-console/bin"
+export PATH=$COCOS_CONSOLE_ROOT:$PATH
+
+# Add environment variable COCOS_X_ROOT for cocos2d-x
+export COCOS_X_ROOT="/home/zoey/Downloads/coco"
+export PATH=$COCOS_X_ROOT:$PATH
+
+# Add environment variable COCOS_TEMPLATES_ROOT for cocos2d-x
+export COCOS_TEMPLATES_ROOT="/home/zoey/Downloads/coco/cocos2d-x/templates"
+export PATH=$COCOS_TEMPLATES_ROOT:$PATH

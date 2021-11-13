@@ -80,7 +80,9 @@ theme.titlebar_maximized_button_normal_active = "/usr/share/awesome/themes/defau
 theme.titlebar_maximized_button_focus_active = "/usr/share/awesome/themes/default/titlebar/maximized_focus_active.png"
 
 --theme.awesome_icon = "/home/zoey/.config/awesome/themes/sky/headimage.jpg"
---theme.icon_theme = "Faenza-Dark"
+-- theme.icon_theme = "FaenzaFlattr2"
+-- theme.icon_theme = "FaenzaFlattr2-Zephyr"
+theme.icon_theme = "Flattr"
 
 return theme
 -- vim: filetype=lua:expandtab:shiftwidth=4:tabstop=8:softtabstop=4:textwidth=80

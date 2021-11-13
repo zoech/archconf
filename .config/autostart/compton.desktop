@@ -1,12 +1,12 @@
 [Desktop Entry]
-Encoding=UTF-8
-Version=0.9.4
-Type=Application
-Name=compton
 Comment=
+Encoding=UTF-8
 Exec=compton --backend glx --paint-on-overlay --glx-no-stencil --vsync opengl-swc --unredir-if-possible --config /home/zoey/.config/compton/compton.conf
+Hidden=false
+Name=compton
 OnlyShowIn=XFCE;
 StartupNotify=false
 Terminal=false
-Hidden=false
+Type=Application
+Version=0.9.4
 

@@ -1,0 +1,114 @@
+04:32:23 PM.926: CPU Name: Intel(R) Core(TM) i5-3210M CPU @ 2.50GHz
+04:32:23 PM.926: CPU Speed: 1944.153MHz
+04:32:23 PM.927: Physical Cores: 2, Logical Cores: 4
+04:32:23 PM.927: Physical Memory: 3784MB Total, 674MB Free
+04:32:23 PM.927: Kernel Version: Linux 4.19.2-arch1-1-ARCH
+04:32:23 PM.927: Distribution: "Arch Linux" Unknown
+04:32:23 PM.927: Window System: X11.0, Vendor: The X.Org Foundation, Version: 1.20.3
+04:32:23 PM.938: Portable mode: false
+04:32:24 PM.060: OBS 22.0.2-1 (linux)
+04:32:24 PM.060: ---------------------------------
+04:32:24 PM.061: ---------------------------------
+04:32:24 PM.061: audio settings reset:
+04:32:24 PM.061: 	samples per sec: 44100
+04:32:24 PM.061: 	speakers:        2
+04:32:24 PM.101: ---------------------------------
+04:32:24 PM.101: Initializing OpenGL...
+04:32:24 PM.134: Loading up OpenGL on adapter Intel Open Source Technology Center Mesa DRI Intel(R) Ivybridge Mobile 
+04:32:24 PM.134: OpenGL loaded successfully, version 4.2 (Core Profile) Mesa 18.2.4, shading language 4.20
+04:32:24 PM.430: ---------------------------------
+04:32:24 PM.430: video settings reset:
+04:32:24 PM.430: 	base resolution:   1366x768
+04:32:24 PM.430: 	output resolution: 1364x768
+04:32:24 PM.430: 	downscale filter:  Bicubic
+04:32:24 PM.430: 	fps:               30/1
+04:32:24 PM.430: 	format:            NV12
+04:32:24 PM.430: 	YUV mode:          601/Partial
+04:32:24 PM.439: Audio monitoring device:
+04:32:24 PM.439: 	name: Default
+04:32:24 PM.439: 	id: default
+04:32:24 PM.439: ---------------------------------
+04:32:24 PM.479: os_dlopen(/usr//lib/obs-plugins/frontend-tools.so->/usr//lib/obs-plugins/frontend-tools.so): libluajit-5.1.so.2: cannot open shared object file: No such file or directory
+04:32:24 PM.479: 
+04:32:24 PM.479: Module '/usr//lib/obs-plugins/frontend-tools.so' not loaded
+04:32:24 PM.577: No blackmagic support
+04:32:24 PM.821: NVENC supported
+04:32:25 PM.117: VLC found, VLC video source enabled
+04:32:25 PM.117: ---------------------------------
+04:32:25 PM.117:   Loaded Modules:
+04:32:25 PM.117:     vlc-video.so
+04:32:25 PM.117:     text-freetype2.so
+04:32:25 PM.117:     rtmp-services.so
+04:32:25 PM.117:     obs-x264.so
+04:32:25 PM.117:     obs-transitions.so
+04:32:25 PM.117:     obs-outputs.so
+04:32:25 PM.117:     obs-libfdk.so
+04:32:25 PM.117:     obs-filters.so
+04:32:25 PM.117:     obs-ffmpeg.so
+04:32:25 PM.117:     linux-v4l2.so
+04:32:25 PM.117:     linux-pulseaudio.so
+04:32:25 PM.117:     linux-jack.so
+04:32:25 PM.117:     linux-decklink.so
+04:32:25 PM.117:     linux-capture.so
+04:32:25 PM.117:     linux-alsa.so
+04:32:25 PM.117:     image-source.so
+04:32:25 PM.117: ---------------------------------
+04:32:25 PM.117: ==== Startup complete ===============================================
+04:32:25 PM.131: Service '' not found
+04:32:25 PM.178: All scene data cleared
+04:32:25 PM.178: ------------------------------------------------
+04:32:25 PM.217: pulse-input: Server name: 'pulseaudio 12.2'
+04:32:25 PM.218: pulse-input: Audio format: s16le, 48000 Hz, 2 channels
+04:32:25 PM.218: pulse-input: Started recording from 'alsa_output.pci-0000_00_1b.0.analog-stereo.monitor'
+04:32:25 PM.221: pulse-input: Server name: 'pulseaudio 12.2'
+04:32:25 PM.221: pulse-input: Audio format: s16le, 44100 Hz, 2 channels
+04:32:25 PM.222: pulse-input: Started recording from 'alsa_input.pci-0000_00_1b.0.analog-stereo'
+04:32:25 PM.223: xshm-input: Geometry 1366x768 @ 0,0
+04:32:25 PM.229: Switched to scene 'Scene'
+04:32:25 PM.229: ------------------------------------------------
+04:32:25 PM.229: Loaded scenes:
+04:32:25 PM.229: - scene 'Scene':
+04:32:25 PM.229:     - source: 'Screen Capture (XSHM)' (xshm_input)
+04:32:25 PM.229: ------------------------------------------------
+04:32:25 PM.740: adding 46 milliseconds of audio buffering, total audio buffering is now 46 milliseconds
+04:34:02 PM.674: ---------------------------------
+04:34:02 PM.674: [x264 encoder: 'streaming_h264'] preset: veryfast
+04:34:02 PM.721: [x264 encoder: 'streaming_h264'] settings:
+04:34:02 PM.721: 	rate_control: CBR
+04:34:02 PM.721: 	bitrate:      2500
+04:34:02 PM.721: 	buffer size:  2500
+04:34:02 PM.721: 	crf:          0
+04:34:02 PM.721: 	fps_num:      30
+04:34:02 PM.721: 	fps_den:      1
+04:34:02 PM.721: 	width:        1364
+04:34:02 PM.721: 	height:       768
+04:34:02 PM.721: 	keyint:       250
+04:34:02 PM.721: 
+04:34:02 PM.771: libfdk_aac encoder created
+04:34:02 PM.772: libfdk_aac bitrate: 160, channels: 2
+04:34:02 PM.772: [rtmp stream: 'adv_stream'] URL is empty
+04:34:02 PM.772: [rtmp stream: 'adv_stream'] Connection to (null) failed: -1
+04:34:02 PM.776: ==== Streaming Stop ================================================
+04:34:08 PM.885: ---------------------------------
+04:34:08 PM.885: [x264 encoder: 'recording_h264'] preset: veryfast
+04:34:08 PM.885: [x264 encoder: 'recording_h264'] settings:
+04:34:08 PM.885: 	rate_control: CBR
+04:34:08 PM.885: 	bitrate:      2500
+04:34:08 PM.885: 	buffer size:  2500
+04:34:08 PM.885: 	crf:          0
+04:34:08 PM.885: 	fps_num:      30
+04:34:08 PM.885: 	fps_den:      1
+04:34:08 PM.885: 	width:        1364
+04:34:08 PM.885: 	height:       768
+04:34:08 PM.885: 	keyint:       250
+04:34:08 PM.885: 
+04:34:08 PM.894: ==== Recording Start ===============================================
+04:34:08 PM.894: [ffmpeg muxer: 'adv_file_output'] Writing file '/home/zoey/2018-11-25 16-34-08.mov'...
+04:40:09 PM.435: ==== Shutting down ==================================================
+04:40:09 PM.437: Switched to scene '(null)'
+04:40:09 PM.438: pulse-input: Stopped recording from 'alsa_output.pci-0000_00_1b.0.analog-stereo.monitor'
+04:40:09 PM.438: pulse-input: Got 92785 packets with 22370753 frames
+04:40:09 PM.438: pulse-input: Stopped recording from 'alsa_input.pci-0000_00_1b.0.analog-stereo'
+04:40:09 PM.439: pulse-input: Got 46427 packets with 20471728 frames
+04:40:09 PM.439: All scene data cleared
+04:40:09 PM.439: ------------------------------------------------

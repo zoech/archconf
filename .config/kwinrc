@@ -1,0 +1,121 @@
+[$Version]
+update_info=kwin.upd:replace-scalein-with-scale,kwin.upd:port-minimizeanimation-effect-to-js,kwin.upd:port-scale-effect-to-js,kwin.upd:port-dimscreen-effect-to-js,kwin.upd:auto-bordersize,kwin.upd:animation-speed,kwin.upd:desktop-grid-click-behavior,kwin.upd:no-swap-encourage
+
+[Compositing]
+Backend=OpenGL
+Enabled=true
+GLCore=true
+GLPreferBufferSwap=a
+GLTextureFilter=2
+HiddenPreviews=5
+OpenGLIsUnsafe=false
+WindowsBlockCompositing=true
+XRenderSmoothScale=false
+
+[Desktops]
+Id_1=8028d694-f2bf-4078-93ca-aa58362349df
+Id_2=ef58f9f3-e925-468e-b765-b883a113d42e
+Id_3=22c714ad-89e7-4653-8086-626417aa0bdd
+Id_4=7ce89ff0-bbfe-4fcf-9daa-4f9877453245
+Number=4
+Rows=1
+
+[Effect-Cube]
+CapDeformation=3
+Opacity=90
+Reflection=false
+TabBox=true
+Wallpaper=file:///home/zoey/Pictures/Wallpapers/wx2/0012.jpg
+ZOrdering=true
+ZPosition=314
+
+[Effect-CubeSlide]
+DontSlidePanels=false
+UsePagerLayout=false
+
+[Effect-Wobbly]
+AdvancedMode=true
+
+[MouseBindings]
+CommandActiveTitlebar1=Raise
+CommandActiveTitlebar2=Start window tab drag
+CommandActiveTitlebar3=Operations menu
+CommandAll1=Move
+CommandAll2=Toggle raise and lower
+CommandAll3=Resize
+CommandAllKey=Alt
+CommandAllWheel=Nothing
+CommandInactiveTitlebar1=Activate and raise
+CommandInactiveTitlebar2=Start window tab drag
+CommandInactiveTitlebar3=Operations menu
+CommandTitlebarWheel=Switch to Window Tab to the Left/Right
+CommandWindow1=Activate, raise and pass click
+CommandWindow2=Activate and pass click
+CommandWindow3=Activate and pass click
+CommandWindowWheel=Scroll
+
+[Plugins]
+cubeEnabled=true
+cubeslideEnabled=true
+desktopchangeosdEnabled=false
+diminactiveEnabled=true
+glideEnabled=true
+kwin4_effect_fadedesktopEnabled=false
+kwin4_effect_squashEnabled=false
+lookingglassEnabled[$d]
+magiclampEnabled=true
+mouseclickEnabled[$d]
+showfpsEnabled[$d]
+slideEnabled=false
+slidebackEnabled=true
+snaphelperEnabled[$d]
+trackmouseEnabled[$d]
+windowgeometryEnabled=false
+wobblywindowsEnabled=true
+zoomEnabled=false
+
+[Script-desktopchangeosd]
+PopupHideDelay=1000
+TextOnly=false
+
+[TabBox]
+DesktopLayout=org.kde.breeze.desktop
+DesktopListLayout=org.kde.breeze.desktop
+LayoutName=org.kde.breeze.desktop
+
+[Windows]
+ActiveMouseScreen=false
+AutoRaise=false
+AutoRaiseInterval=0
+AutogroupInForeground=true
+AutogroupSimilarWindows=false
+BorderSnapZone=10
+CenterSnapZone=0
+ClickRaise=true
+DelayFocusInterval=0
+FocusPolicy=ClickToFocus
+FocusStealingPreventionLevel=1
+GeometryTip=false
+HideUtilityWindowsForInactive=true
+InactiveTabsSkipTaskbar=false
+MaximizeButtonLeftClickCommand=Maximize
+MaximizeButtonMiddleClickCommand=Maximize (vertical only)
+MaximizeButtonRightClickCommand=Maximize (horizontal only)
+NextFocusPrefersMouse=false
+Placement=Smart
+RollOverDesktops=true
+SeparateScreenFocus=false
+ShadeHover=false
+ShadeHoverInterval=250
+SnapOnlyWhenOverlapping=false
+TitlebarDoubleClickCommand=Maximize
+WindowSnapZone=10
+
+[org.kde.kdecoration2]
+BorderSize=None
+BorderSizeAuto=false
+ButtonsOnLeft=MS
+ButtonsOnRight=HIAX
+CloseOnDoubleClickOnMenu=false
+library=org.kde.breeze
+theme[$d]

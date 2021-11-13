@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Meld
+Comment=Compare and merge your files
+Exec=meld %F
+Icon=meld
+Path=
+Terminal=false
+StartupNotify=true

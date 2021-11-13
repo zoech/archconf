@@ -1,0 +1,61 @@
+[2018-09-25 14:22:21.485] [sharedprocess] [info] main {"machineId":"a91b1a4bd5be71df7fcc6cc9d90bb93f9c24cb8cec43875c5b4aad89ceb7e666"}
+[2018-09-25 14:22:23.071] [sharedprocess] [info] Scanned user extensions: 1
+[2018-09-25 14:22:23.142] [sharedprocess] [info] Scanned user extensions: 1
+[2018-09-25 14:22:23.922] [sharedprocess] [info] Scanned user extensions: 1
+[2018-09-25 14:22:23.942] [sharedprocess] [info] Scanned user extensions: 1
+[2018-09-25 14:22:25.310] [sharedprocess] [info] Scanned user extensions: 1
+[2018-09-25 14:22:25.998] [sharedprocess] [info] Scanned user extensions: 1
+[2018-09-25 14:22:26.255] [sharedprocess] [info] Scanned system extensions: 71
+[2018-09-25 14:22:26.255] [sharedprocess] [info] Scanned system extensions: 71
+[2018-09-25 14:22:26.258] [sharedprocess] [info] Scanned system extensions: 71
+[2018-09-25 14:22:28.001] [sharedprocess] [info] Installing extension: vetur
+[2018-09-25 14:22:28.003] [sharedprocess] [info] Scanned user extensions: 1
+[2018-09-25 14:23:01.491] [sharedprocess] [info] Starting to clean up unused language packs.
+[2018-09-25 14:27:26.011] [sharedprocess] [info] Scanned user extensions: 1
+[2018-09-25 14:32:26.025] [sharedprocess] [info] Scanned user extensions: 1
+[2018-09-25 14:37:26.035] [sharedprocess] [info] Scanned user extensions: 1
+[2018-09-25 14:39:37.160] [sharedprocess] [info] Downloaded extension: vetur /tmp/20f23377-4a93-43a4-940d-14ea04376bb9
+[2018-09-25 14:39:53.659] [sharedprocess] [info] Extracted extension to /home/zoey/.vscode/extensions/.octref.vetur-0.12.7: octref.vetur-0.12.7
+[2018-09-25 14:39:53.659] [sharedprocess] [info] Renamed to /home/zoey/.vscode/extensions/octref.vetur-0.12.7
+[2018-09-25 14:39:53.659] [sharedprocess] [info] Installation completed. octref.vetur-0.12.7
+[2018-09-25 14:39:54.313] [sharedprocess] [info] Extensions installed successfully: octref.vetur
+[2018-09-25 14:39:54.424] [sharedprocess] [info] Scanned user extensions: 1
+[2018-09-25 14:39:54.464] [sharedprocess] [info] Scanned system extensions: 71
+[2018-09-25 14:42:26.049] [sharedprocess] [info] Scanned user extensions: 1
+[2018-09-25 14:47:26.063] [sharedprocess] [info] Scanned user extensions: 1
+[2018-09-25 14:52:26.075] [sharedprocess] [info] Scanned user extensions: 1
+[2018-09-25 14:57:26.088] [sharedprocess] [info] Scanned user extensions: 1
+[2018-09-25 15:02:26.100] [sharedprocess] [info] Scanned user extensions: 1
+[2018-09-25 15:07:26.107] [sharedprocess] [info] Scanned user extensions: 1
+[2018-09-25 15:12:26.526] [sharedprocess] [info] Scanned user extensions: 1
+[2018-09-25 15:17:26.555] [sharedprocess] [info] Scanned user extensions: 1
+[2018-09-25 15:22:26.564] [sharedprocess] [info] Scanned user extensions: 1
+[2018-09-25 15:27:26.575] [sharedprocess] [info] Scanned user extensions: 1
+[2018-09-25 15:32:26.587] [sharedprocess] [info] Scanned user extensions: 1
+[2018-09-25 15:37:26.595] [sharedprocess] [info] Scanned user extensions: 1
+[2018-09-25 15:42:26.656] [sharedprocess] [info] Scanned user extensions: 1
+[2018-09-25 15:47:26.678] [sharedprocess] [info] Scanned user extensions: 1
+[2018-09-25 15:52:26.686] [sharedprocess] [info] Scanned user extensions: 1
+[2018-09-25 15:57:26.695] [sharedprocess] [info] Scanned user extensions: 1
+[2018-09-25 16:02:27.273] [sharedprocess] [info] Scanned user extensions: 1
+[2018-09-25 16:07:27.285] [sharedprocess] [info] Scanned user extensions: 1
+[2018-09-25 16:12:27.296] [sharedprocess] [info] Scanned user extensions: 1
+[2018-09-25 16:17:27.309] [sharedprocess] [info] Scanned user extensions: 1
+[2018-09-25 16:22:27.324] [sharedprocess] [info] Scanned user extensions: 1
+[2018-09-25 16:27:27.334] [sharedprocess] [info] Scanned user extensions: 1
+[2018-09-25 16:32:27.347] [sharedprocess] [info] Scanned user extensions: 1
+[2018-09-25 16:37:27.358] [sharedprocess] [info] Scanned user extensions: 1
+[2018-09-25 16:42:27.370] [sharedprocess] [info] Scanned user extensions: 1
+[2018-09-25 16:47:27.427] [sharedprocess] [info] Scanned user extensions: 1
+[2018-09-25 16:52:27.791] [sharedprocess] [info] Scanned user extensions: 1
+[2018-09-25 16:57:27.805] [sharedprocess] [info] Scanned user extensions: 1
+[2018-09-25 17:02:28.094] [sharedprocess] [info] Scanned user extensions: 1
+[2018-09-25 17:07:28.108] [sharedprocess] [info] Scanned user extensions: 1
+[2018-09-25 17:12:28.116] [sharedprocess] [info] Scanned user extensions: 1
+[2018-09-25 17:17:28.127] [sharedprocess] [info] Scanned user extensions: 1
+[2018-09-25 17:22:28.140] [sharedprocess] [info] Scanned user extensions: 1
+[2018-09-25 17:27:28.152] [sharedprocess] [info] Scanned user extensions: 1
+[2018-09-25 17:32:28.754] [sharedprocess] [info] Scanned user extensions: 1
+[2018-09-25 17:37:28.768] [sharedprocess] [info] Scanned user extensions: 1
+[2018-09-25 17:42:28.944] [sharedprocess] [info] Scanned user extensions: 1
+[2018-09-25 17:47:28.960] [sharedprocess] [info] Scanned user extensions: 1

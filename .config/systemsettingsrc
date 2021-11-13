@@ -1,0 +1,27 @@
+[DownloadDialog Settings]
+Height 768=512
+Width 1366=700
+
+[KFileDialog Settings]
+Recent Files[$e]=file:$HOME/Pictures/3.jpg,file:$HOME/Pictures/Wallpapers/wx2/0012.jpg,file:$HOME/Pictures/Wallpapers/wx2/0005.jpg,file:$HOME/Pictures/Wallpapers/wx2/5.jpg
+Recent URLs[$e]=file:$HOME/Pictures/,file:$HOME/Pictures/Wallpapers/wx2/,file:$HOME/Pictures/Wallpapers/
+
+[MainWindow]
+Height 720=471
+Height 768=675
+LVDS1 Height 1366x768=675
+LVDS1 Width 1366x768=1024
+LVDS1 XPosition 1366x768=74
+LVDS1 YPosition 1366x768=93
+MenuBar=Disabled
+RestorePositionForNextInstance=false
+State=AAAA/wAAAAD9AAAAAAAABAAAAAKjAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+Width 1280=910
+Width 1366=1024
+Window-Maximized 720x1280=true
+Window-Maximized 768x1366=true
+
+[Open-with settings]
+CompletionMode=1
+History=gvim,scre

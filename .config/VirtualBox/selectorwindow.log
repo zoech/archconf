@@ -1,0 +1,18 @@
+VirtualBox GUI VM Selector Window 5.1.4_OSE r110228 linux.amd64 (Aug 22 2016 23:24:52) release log
+00:00:00.081840 Log opened 2016-09-13T16:49:26.243590000Z
+00:00:00.081841 Build Type: release
+00:00:00.081843 OS Product: Linux
+00:00:00.081844 OS Release: 4.7.2-1-ARCH
+00:00:00.081845 OS Version: #1 SMP PREEMPT Sat Aug 20 23:02:56 CEST 2016
+00:00:00.081863 DMI Product Name: Aspire E1-471G
+00:00:00.081868 DMI Product Version: V1.19
+00:00:00.081901 Host RAM: 3796MB total, 2782MB available
+00:00:00.081903 Executable: /usr/lib/virtualbox/VirtualBox
+00:00:00.081904 Process ID: 15873
+00:00:00.081904 Package type: LINUX_64BITS_GENERIC (OSE)
+00:00:00.081933 Qt version: 5.7.0
+00:00:00.091831 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:00.174518 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:04.135903 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:04.227508 2D support test succeeded
+00:00:04.297231 GUI: UIMediumEnumerator: Medium-enumeration finished!

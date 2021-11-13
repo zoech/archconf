@@ -1,0 +1,10 @@
+[General]
+SplitterSizes=285,354
+
+[KFileDialog Settings]
+Recent Files[$e]=studio.png,file:$HOME/Android/android-studio/bin/studio.sh,file:$HOME/Android/android-studio/bin/studio.png
+Recent URLs[$e]=file:$HOME/Android/android-studio/bin/,file:$HOME/Android/android-studio/
+
+[MainWindow]
+State=AAAA/wAAAAD9AAAAAAAAAoAAAAGcAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled

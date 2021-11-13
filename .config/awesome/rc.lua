@@ -464,6 +464,8 @@ awful.rules.rules = {
                      buttons = clientbuttons } },
     { rule = { class = "MPlayer" },
       properties = { floating = true } },
+    { rule = { class = "baka-mplayer" },
+      properties = { floating = true } },
     { rule = { class = "pinentry" },
       properties = { floating = true } },
     { rule = { class = "gimp" },
@@ -585,7 +587,8 @@ awful.util.spawn_with_shell("fcitx")
 awful.util.spawn_with_shell("compton --config /home/zoey/.config/compton/compton.conf")
 
 -- set wallpaper using feh
-awful.util.spawn_with_shell("feh --bg-fill /home/zoey/Pictures/worldX2/37.jpg")
+-- awful.util.spawn_with_shell("feh --bg-fill /home/zoey/Pictures/Wallpapers/wx2/wp001.jpg")
+awful.util.spawn_with_shell("feh --bg-fill /home/zoey/Pictures/Wallpapers/wx2/0013.jpg")
 
 -- set screen-off time out
 awful.util.spawn_with_shell("xset s 0")

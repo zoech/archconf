@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Blender
+Comment=3D modeling, animation, rendering and post-production
+Exec=blender %f
+Icon=blender
+Path=
+Terminal=false
+StartupNotify=false

@@ -1,0 +1,11 @@
+[Favorites-org.kde.plasma.kickoff.favorites.instance-20-051c494c-a623-4a0e-b458-2052748bcfa4]
+ordering=preferred://browser,kontact.desktop,systemsettings.desktop,org.kde.dolphin.desktop,ktp-contactlist.desktop,org.kde.kate.desktop,org.kde.discover.desktop
+
+[Favorites-org.kde.plasma.kickoff.favorites.instance-20-global]
+ordering=preferred://browser,kontact.desktop,systemsettings.desktop,org.kde.dolphin.desktop,ktp-contactlist.desktop,org.kde.kate.desktop,org.kde.discover.desktop
+
+[Favorites-org.kde.plasma.kickoff.favorites.instance-3-051c494c-a623-4a0e-b458-2052748bcfa4]
+ordering=preferred://browser,applications:chromium.desktop,applications:obs.desktop,applications:jetbrains-idea.desktop,applications:shadowsocks-qt5.desktop,applications:minecraft.desktop,applications:tuxguitar.desktop,applications:org.gnome.Nautilus.desktop
+
+[Favorites-org.kde.plasma.kickoff.favorites.instance-3-global]
+ordering=preferred://browser,applications:chromium.desktop,applications:obs.desktop,applications:jetbrains-idea.desktop,applications:shadowsocks-qt5.desktop,applications:minecraft.desktop,applications:tuxguitar.desktop,applications:org.gnome.Nautilus.desktop

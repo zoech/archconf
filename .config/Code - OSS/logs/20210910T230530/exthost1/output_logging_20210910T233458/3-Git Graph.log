@@ -1,0 +1,202 @@
+[2021-09-10 23:34:58.280] Starting Git Graph ...
+[2021-09-10 23:34:58.309] Using git (version: 2.33.0)
+[2021-09-10 23:34:58.317] Started Git Graph - Ready to use!
+[2021-09-10 23:34:58.318] Searching workspace for new repos ...
+[2021-09-10 23:34:58.323] > git rev-parse --show-toplevel
+[2021-09-10 23:34:58.326] Added new repo: /home/zoey/git/0ad
+[2021-09-10 23:34:58.329] Successfully set Visual Studio Code Context "git-graph:codiconsSupported" to "true"
+[2021-09-10 23:34:58.330] Completed searching workspace for new repos
+[2021-09-10 23:34:58.330] Showing "Git Graph" Status Bar Item
+[2021-09-10 23:35:00.102] Created Git Graph View
+[2021-09-10 23:35:00.529] > git branch -a --no-color
+[2021-09-10 23:35:00.537] > git remote
+[2021-09-10 23:35:00.544] > git reflog --format=... refs/stash --
+[2021-09-10 23:35:00.547] Started watching repo: /home/zoey/git/0ad
+[2021-09-10 23:35:00.561] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags --remotes HEAD --
+[2021-09-10 23:35:00.567] > git show-ref -d --head
+[2021-09-10 23:35:00.997] > git status --untracked-files=all --porcelain
+[2021-09-10 23:35:01.471] > git --no-pager config --list -z --includes
+[2021-09-10 23:35:01.478] > git --no-pager config --list -z --includes --local
+[2021-09-10 23:35:01.483] > git --no-pager config --list -z --includes --global
+[2021-09-10 23:35:05.333] > git -c log.showSignature=false log --max-count=401 --format=... --date-order --branches --tags --remotes HEAD --
+[2021-09-10 23:35:05.347] > git show-ref -d --head
+[2021-09-10 23:35:05.600] > git status --untracked-files=all --porcelain
+[2021-09-10 23:35:09.131] > git -c log.showSignature=false log --max-count=501 --format=... --date-order --branches --tags --remotes HEAD --
+[2021-09-10 23:35:09.139] > git show-ref -d --head
+[2021-09-10 23:35:09.399] > git status --untracked-files=all --porcelain
+[2021-09-10 23:35:12.459] > git -c log.showSignature=false log --max-count=601 --format=... --date-order --branches --tags --remotes HEAD --
+[2021-09-10 23:35:12.467] > git show-ref -d --head
+[2021-09-10 23:35:12.744] > git status --untracked-files=all --porcelain
+[2021-09-10 23:35:16.610] > git -c log.showSignature=false log --max-count=701 --format=... --date-order --branches --tags --remotes HEAD --
+[2021-09-10 23:35:16.619] > git show-ref -d --head
+[2021-09-10 23:35:16.895] > git status --untracked-files=all --porcelain
+[2021-09-10 23:35:19.985] > git -c log.showSignature=false log --max-count=801 --format=... --date-order --branches --tags --remotes HEAD --
+[2021-09-10 23:35:19.994] > git show-ref -d --head
+[2021-09-10 23:35:20.266] > git status --untracked-files=all --porcelain
+[2021-09-10 23:35:22.936] > git -c log.showSignature=false log --max-count=901 --format=... --date-order --branches --tags --remotes HEAD --
+[2021-09-10 23:35:22.946] > git show-ref -d --head
+[2021-09-10 23:35:23.216] > git status --untracked-files=all --porcelain
+[2021-09-10 23:35:27.633] > git -c log.showSignature=false log --max-count=1001 --format=... --date-order --branches --tags --remotes HEAD --
+[2021-09-10 23:35:27.647] > git show-ref -d --head
+[2021-09-10 23:35:27.907] > git status --untracked-files=all --porcelain
+[2021-09-10 23:35:31.911] > git -c log.showSignature=false log --max-count=1101 --format=... --date-order --branches --tags --remotes HEAD --
+[2021-09-10 23:35:31.919] > git show-ref -d --head
+[2021-09-10 23:35:32.228] > git status --untracked-files=all --porcelain
+[2021-09-10 23:35:36.104] > git -c log.showSignature=false log --max-count=1201 --format=... --date-order --branches --tags --remotes HEAD --
+[2021-09-10 23:35:36.112] > git show-ref -d --head
+[2021-09-10 23:35:36.394] > git status --untracked-files=all --porcelain
+[2021-09-10 23:35:40.617] > git -c log.showSignature=false log --max-count=1301 --format=... --date-order --branches --tags --remotes HEAD --
+[2021-09-10 23:35:40.625] > git show-ref -d --head
+[2021-09-10 23:35:40.942] > git status --untracked-files=all --porcelain
+[2021-09-10 23:35:45.387] > git -c log.showSignature=false log --max-count=1401 --format=... --date-order --branches --tags --remotes HEAD --
+[2021-09-10 23:35:45.395] > git show-ref -d --head
+[2021-09-10 23:35:45.679] > git status --untracked-files=all --porcelain
+[2021-09-10 23:35:50.081] > git -c log.showSignature=false log --max-count=1501 --format=... --date-order --branches --tags --remotes HEAD --
+[2021-09-10 23:35:50.089] > git show-ref -d --head
+[2021-09-10 23:35:50.409] > git status --untracked-files=all --porcelain
+[2021-09-10 23:35:57.185] > git -c log.showSignature=false log --max-count=1601 --format=... --date-order --branches --tags --remotes HEAD --
+[2021-09-10 23:35:57.194] > git show-ref -d --head
+[2021-09-10 23:35:57.495] > git status --untracked-files=all --porcelain
+[2021-09-10 23:36:06.922] > git -c log.showSignature=false log --max-count=1701 --format=... --date-order --branches --tags --remotes HEAD --
+[2021-09-10 23:36:06.962] > git show-ref -d --head
+[2021-09-10 23:36:07.265] > git status --untracked-files=all --porcelain
+[2021-09-10 23:36:12.183] > git -c log.showSignature=false log --max-count=1801 --format=... --date-order --branches --tags --remotes HEAD --
+[2021-09-10 23:36:12.196] > git show-ref -d --head
+[2021-09-10 23:36:12.512] > git status --untracked-files=all --porcelain
+[2021-09-10 23:36:17.959] > git -c log.showSignature=false log --max-count=1901 --format=... --date-order --branches --tags --remotes HEAD --
+[2021-09-10 23:36:17.967] > git show-ref -d --head
+[2021-09-10 23:36:18.287] > git status --untracked-files=all --porcelain
+[2021-09-10 23:37:24.812] > git -c log.showSignature=false show --quiet 4f064620c55ee921d1acd571eab8986d9595680f --format=...
+[2021-09-10 23:37:24.821] > git diff --name-status --find-renames --diff-filter=AMDR -z 4f064620c55ee921d1acd571eab8986d9595680f^ 4f064620c55ee921d1acd571eab8986d9595680f
+[2021-09-10 23:37:24.830] > git diff --numstat --find-renames --diff-filter=AMDR -z 4f064620c55ee921d1acd571eab8986d9595680f^ 4f064620c55ee921d1acd571eab8986d9595680f
+[2021-09-10 23:37:26.159] > git -c log.showSignature=false show --quiet ec8ca6cc1d90baecd44202c389689d04bd61a1bd --format=...
+[2021-09-10 23:37:26.170] > git diff --name-status --find-renames --diff-filter=AMDR -z ec8ca6cc1d90baecd44202c389689d04bd61a1bd^ ec8ca6cc1d90baecd44202c389689d04bd61a1bd
+[2021-09-10 23:37:26.177] > git diff --numstat --find-renames --diff-filter=AMDR -z ec8ca6cc1d90baecd44202c389689d04bd61a1bd^ ec8ca6cc1d90baecd44202c389689d04bd61a1bd
+[2021-09-10 23:37:28.706] > git show ec8ca6cc1d90baecd44202c389689d04bd61a1bd^:binaries/data/mods/public/simulation/ai/petra/baseManager.js
+[2021-09-10 23:37:28.713] > git show ec8ca6cc1d90baecd44202c389689d04bd61a1bd:binaries/data/mods/public/simulation/ai/petra/baseManager.js
+[2021-09-10 23:37:28.888] Stopped watching repo: /home/zoey/git/0ad
+[2021-09-10 23:43:39.405] > git branch -a --no-color
+[2021-09-10 23:43:39.422] > git remote
+[2021-09-10 23:43:39.440] > git reflog --format=... refs/stash --
+[2021-09-10 23:43:39.468] > git show ec8ca6cc1d90baecd44202c389689d04bd61a1bd^:binaries/data/mods/public/simulation/ai/petra/baseManager.js
+[2021-09-10 23:43:39.481] > git show ec8ca6cc1d90baecd44202c389689d04bd61a1bd:binaries/data/mods/public/simulation/ai/petra/baseManager.js
+[2021-09-10 23:43:39.487] Started watching repo: /home/zoey/git/0ad
+[2021-09-10 23:43:39.556] Stopped watching repo: /home/zoey/git/0ad
+[2021-09-10 23:43:39.621] > git -c log.showSignature=false log --max-count=1901 --format=... --date-order --branches --tags --remotes HEAD --
+[2021-09-10 23:43:39.633] > git show-ref -d --head
+[2021-09-10 23:43:39.948] > git status --untracked-files=all --porcelain
+[2021-09-10 23:43:52.542] > git branch -a --no-color
+[2021-09-10 23:43:52.572] > git remote
+[2021-09-10 23:43:52.586] > git reflog --format=... refs/stash --
+[2021-09-10 23:43:52.589] Started watching repo: /home/zoey/git/0ad
+[2021-09-10 23:43:52.650] > git -c log.showSignature=false log --max-count=1901 --format=... --date-order --branches --tags --remotes HEAD --
+[2021-09-10 23:43:52.655] > git show-ref -d --head
+[2021-09-10 23:43:52.923] > git status --untracked-files=all --porcelain
+[2021-09-10 23:43:57.934] > git -c log.showSignature=false show --quiet 4f064620c55ee921d1acd571eab8986d9595680f --format=...
+[2021-09-10 23:43:57.943] > git diff --name-status --find-renames --diff-filter=AMDR -z 4f064620c55ee921d1acd571eab8986d9595680f^ 4f064620c55ee921d1acd571eab8986d9595680f
+[2021-09-10 23:43:57.951] > git diff --numstat --find-renames --diff-filter=AMDR -z 4f064620c55ee921d1acd571eab8986d9595680f^ 4f064620c55ee921d1acd571eab8986d9595680f
+[2021-09-10 23:44:00.542] > git show 4f064620c55ee921d1acd571eab8986d9595680f^:binaries/data/mods/public/simulation/ai/common-api/entity.js
+[2021-09-10 23:44:00.550] > git show 4f064620c55ee921d1acd571eab8986d9595680f:binaries/data/mods/public/simulation/ai/common-api/entity.js
+[2021-09-10 23:44:00.612] Stopped watching repo: /home/zoey/git/0ad
+[2021-09-10 23:45:12.296] > git branch -a --no-color
+[2021-09-10 23:45:12.307] > git remote
+[2021-09-10 23:45:12.316] > git reflog --format=... refs/stash --
+[2021-09-10 23:45:12.321] Started watching repo: /home/zoey/git/0ad
+[2021-09-10 23:45:12.350] > git show 4f064620c55ee921d1acd571eab8986d9595680f^:binaries/data/mods/public/simulation/ai/common-api/filters.js
+[2021-09-10 23:45:12.376] > git show 4f064620c55ee921d1acd571eab8986d9595680f:binaries/data/mods/public/simulation/ai/common-api/filters.js
+[2021-09-10 23:45:12.425] Stopped watching repo: /home/zoey/git/0ad
+[2021-09-10 23:45:12.562] > git -c log.showSignature=false log --max-count=1901 --format=... --date-order --branches --tags --remotes HEAD --
+[2021-09-10 23:45:12.570] > git show-ref -d --head
+[2021-09-10 23:45:12.855] > git status --untracked-files=all --porcelain
+[2021-09-10 23:45:33.126] > git branch -a --no-color
+[2021-09-10 23:45:33.144] > git remote
+[2021-09-10 23:45:33.166] > git reflog --format=... refs/stash --
+[2021-09-10 23:45:33.168] Started watching repo: /home/zoey/git/0ad
+[2021-09-10 23:45:33.209] > git -c log.showSignature=false log --max-count=1901 --format=... --date-order --branches --tags --remotes HEAD --
+[2021-09-10 23:45:33.214] > git show-ref -d --head
+[2021-09-10 23:45:33.507] > git status --untracked-files=all --porcelain
+[2021-09-10 23:45:43.197] > git -c log.showSignature=false show --quiet a299a84b4afdb20ab0a516cd6f305561c18ed0aa --format=...
+[2021-09-10 23:45:43.204] > git diff --name-status --find-renames --diff-filter=AMDR -z a299a84b4afdb20ab0a516cd6f305561c18ed0aa^ a299a84b4afdb20ab0a516cd6f305561c18ed0aa
+[2021-09-10 23:45:43.211] > git diff --numstat --find-renames --diff-filter=AMDR -z a299a84b4afdb20ab0a516cd6f305561c18ed0aa^ a299a84b4afdb20ab0a516cd6f305561c18ed0aa
+[2021-09-10 23:45:44.879] > git show a299a84b4afdb20ab0a516cd6f305561c18ed0aa^:binaries/data/mods/public/simulation/ai/common-api/entity.js
+[2021-09-10 23:45:44.890] > git show a299a84b4afdb20ab0a516cd6f305561c18ed0aa:binaries/data/mods/public/simulation/ai/common-api/entity.js
+[2021-09-10 23:45:45.015] Stopped watching repo: /home/zoey/git/0ad
+[2021-09-10 23:45:59.149] > git branch -a --no-color
+[2021-09-10 23:45:59.172] > git remote
+[2021-09-10 23:45:59.182] > git reflog --format=... refs/stash --
+[2021-09-10 23:45:59.190] Started watching repo: /home/zoey/git/0ad
+[2021-09-10 23:45:59.312] > git -c log.showSignature=false log --max-count=1901 --format=... --date-order --branches --tags --remotes HEAD --
+[2021-09-10 23:45:59.319] > git show-ref -d --head
+[2021-09-10 23:45:59.593] > git status --untracked-files=all --porcelain
+[2021-09-10 23:46:00.191] > git show a299a84b4afdb20ab0a516cd6f305561c18ed0aa^:binaries/data/mods/public/simulation/ai/petra/worker.js
+[2021-09-10 23:46:00.203] > git show a299a84b4afdb20ab0a516cd6f305561c18ed0aa:binaries/data/mods/public/simulation/ai/petra/worker.js
+[2021-09-10 23:46:00.267] Stopped watching repo: /home/zoey/git/0ad
+[2021-09-10 23:46:45.256] > git branch -a --no-color
+[2021-09-10 23:46:45.264] > git remote
+[2021-09-10 23:46:45.274] > git reflog --format=... refs/stash --
+[2021-09-10 23:46:45.280] Started watching repo: /home/zoey/git/0ad
+[2021-09-10 23:46:45.319] > git -c log.showSignature=false log --max-count=1901 --format=... --date-order --branches --tags --remotes HEAD --
+[2021-09-10 23:46:45.326] > git show-ref -d --head
+[2021-09-10 23:46:45.583] > git status --untracked-files=all --porcelain
+[2021-09-10 23:47:30.170] > git -c log.showSignature=false show --quiet 675cc488c49a9149fc0f4cca733d379c1a5f0800 --format=...
+[2021-09-10 23:47:30.178] > git diff --name-status --find-renames --diff-filter=AMDR -z 675cc488c49a9149fc0f4cca733d379c1a5f0800^ 675cc488c49a9149fc0f4cca733d379c1a5f0800
+[2021-09-10 23:47:30.186] > git diff --numstat --find-renames --diff-filter=AMDR -z 675cc488c49a9149fc0f4cca733d379c1a5f0800^ 675cc488c49a9149fc0f4cca733d379c1a5f0800
+[2021-09-10 23:47:32.969] > git show 675cc488c49a9149fc0f4cca733d379c1a5f0800^:binaries/data/mods/public/simulation/ai/petra/config.js
+[2021-09-10 23:47:32.977] > git show 675cc488c49a9149fc0f4cca733d379c1a5f0800:binaries/data/mods/public/simulation/ai/petra/config.js
+[2021-09-10 23:47:33.082] Stopped watching repo: /home/zoey/git/0ad
+[2021-09-10 23:48:36.584] > git branch -a --no-color
+[2021-09-10 23:48:36.612] > git remote
+[2021-09-10 23:48:36.619] > git reflog --format=... refs/stash --
+[2021-09-10 23:48:36.621] Started watching repo: /home/zoey/git/0ad
+[2021-09-10 23:48:36.712] > git -c log.showSignature=false log --max-count=1901 --format=... --date-order --branches --tags --remotes HEAD --
+[2021-09-10 23:48:36.718] > git show-ref -d --head
+[2021-09-10 23:48:36.977] > git status --untracked-files=all --porcelain
+[2021-09-10 23:48:38.638] > git show 675cc488c49a9149fc0f4cca733d379c1a5f0800^:binaries/data/mods/public/simulation/ai/petra/headquarters.js
+[2021-09-10 23:48:38.649] > git show 675cc488c49a9149fc0f4cca733d379c1a5f0800:binaries/data/mods/public/simulation/ai/petra/headquarters.js
+[2021-09-10 23:48:38.799] Stopped watching repo: /home/zoey/git/0ad
+[2021-09-10 23:49:53.036] > git branch -a --no-color
+[2021-09-10 23:49:53.055] > git remote
+[2021-09-10 23:49:53.065] > git reflog --format=... refs/stash --
+[2021-09-10 23:49:53.068] Started watching repo: /home/zoey/git/0ad
+[2021-09-10 23:49:53.102] > git -c log.showSignature=false log --max-count=1901 --format=... --date-order --branches --tags --remotes HEAD --
+[2021-09-10 23:49:53.109] > git show-ref -d --head
+[2021-09-10 23:49:53.364] > git status --untracked-files=all --porcelain
+[2021-09-10 23:49:55.263] > git show 675cc488c49a9149fc0f4cca733d379c1a5f0800^:binaries/data/mods/public/simulation/ai/petra/headquarters.js
+[2021-09-10 23:49:55.272] > git show 675cc488c49a9149fc0f4cca733d379c1a5f0800:binaries/data/mods/public/simulation/ai/petra/headquarters.js
+[2021-09-10 23:49:55.345] Stopped watching repo: /home/zoey/git/0ad
+[2021-09-10 23:50:40.476] > git branch -a --no-color
+[2021-09-10 23:50:40.499] > git remote
+[2021-09-10 23:50:40.507] > git reflog --format=... refs/stash --
+[2021-09-10 23:50:40.510] Started watching repo: /home/zoey/git/0ad
+[2021-09-10 23:50:40.536] > git show 675cc488c49a9149fc0f4cca733d379c1a5f0800^:binaries/data/mods/public/simulation/ai/petra/researchManager.js
+[2021-09-10 23:50:40.543] > git show 675cc488c49a9149fc0f4cca733d379c1a5f0800:binaries/data/mods/public/simulation/ai/petra/researchManager.js
+[2021-09-10 23:50:40.592] Stopped watching repo: /home/zoey/git/0ad
+[2021-09-10 23:50:40.654] > git -c log.showSignature=false log --max-count=1901 --format=... --date-order --branches --tags --remotes HEAD --
+[2021-09-10 23:50:40.663] > git show-ref -d --head
+[2021-09-10 23:50:40.964] > git status --untracked-files=all --porcelain
+[2021-09-10 23:50:58.367] > git branch -a --no-color
+[2021-09-10 23:50:58.390] > git remote
+[2021-09-10 23:50:58.410] > git reflog --format=... refs/stash --
+[2021-09-10 23:50:58.416] Started watching repo: /home/zoey/git/0ad
+[2021-09-10 23:50:58.550] > git -c log.showSignature=false log --max-count=1901 --format=... --date-order --branches --tags --remotes HEAD --
+[2021-09-10 23:50:58.558] > git show-ref -d --head
+[2021-09-10 23:50:58.817] > git status --untracked-files=all --porcelain
+[2021-09-10 23:51:51.848] > git -c log.showSignature=false log --max-count=2001 --format=... --date-order --branches --tags --remotes HEAD --
+[2021-09-10 23:51:51.866] > git show-ref -d --head
+[2021-09-10 23:51:52.150] > git status --untracked-files=all --porcelain
+[2021-09-10 23:51:58.102] > git -c log.showSignature=false log --max-count=2101 --format=... --date-order --branches --tags --remotes HEAD --
+[2021-09-10 23:51:58.111] > git show-ref -d --head
+[2021-09-10 23:51:58.421] > git status --untracked-files=all --porcelain
+[2021-09-10 23:52:03.676] > git -c log.showSignature=false log --max-count=2201 --format=... --date-order --branches --tags --remotes HEAD --
+[2021-09-10 23:52:03.687] > git show-ref -d --head
+[2021-09-10 23:52:04.000] > git status --untracked-files=all --porcelain
+[2021-09-10 23:52:19.053] > git -c log.showSignature=false show --quiet bd1e5680b5e9f32e3e3797361fdee98c6a535340 --format=...
+[2021-09-10 23:52:19.061] > git diff --name-status --find-renames --diff-filter=AMDR -z bd1e5680b5e9f32e3e3797361fdee98c6a535340^ bd1e5680b5e9f32e3e3797361fdee98c6a535340
+[2021-09-10 23:52:19.069] > git diff --numstat --find-renames --diff-filter=AMDR -z bd1e5680b5e9f32e3e3797361fdee98c6a535340^ bd1e5680b5e9f32e3e3797361fdee98c6a535340
+[2021-09-10 23:52:34.111] > git -c log.showSignature=false log --max-count=2301 --format=... --date-order --branches --tags --remotes HEAD --
+[2021-09-10 23:52:34.123] > git show-ref -d --head
+[2021-09-10 23:52:34.439] > git status --untracked-files=all --porcelain
+[2021-09-10 23:52:47.411] > git -c log.showSignature=false log --max-count=2401 --format=... --date-order --branches --tags --remotes HEAD --
+[2021-09-10 23:52:47.435] > git show-ref -d --head
+[2021-09-10 23:52:47.754] > git status --untracked-files=all --porcelain
+[2021-09-10 23:52:57.186] Stopped watching repo: /home/zoey/git/0ad

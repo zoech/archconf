@@ -1,0 +1,10 @@
+#! /bin/sh
+#
+# Created by configure
+
+"./configure" \
+"--prefix=/home/zoey/bin/apache" \
+"--enable-so" \
+"--enable-ssl" \
+"--sysconfdir=/home/zoey/bin/apache/conf" \
+"$@"

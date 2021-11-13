@@ -1,0 +1,15 @@
+2021/11/05-18:22:04.372 3 Reusing MANIFEST /home/zoey/.config/chromium/Default/Session Storage/MANIFEST-000001
+2021/11/05-18:22:04.374 3 Recovering log #567
+2021/11/05-18:22:04.762 3 Reusing old log /home/zoey/.config/chromium/Default/Session Storage/000567.log 
+2021/11/05-18:29:21.736 3 Level-0 table #571: started
+2021/11/05-18:29:21.785 3 Level-0 table #571: 24863 bytes OK
+2021/11/05-18:29:21.824 3 Delete type=0 #567
+2021/11/05-18:29:21.858 3 Compacting 4@0 + 1@1 files
+2021/11/05-18:29:21.987 3 Generated table #572@0: 6816 keys, 160540 bytes
+2021/11/05-18:29:21.987 3 Compacted 4@0 + 1@1 files => 160540 bytes
+2021/11/05-18:29:22.034 3 compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/11/05-18:29:22.036 3 Delete type=2 #563
+2021/11/05-18:29:22.037 3 Delete type=2 #566
+2021/11/05-18:29:22.037 3 Delete type=2 #568
+2021/11/05-18:29:22.037 3 Delete type=2 #571
+2021/11/05-18:29:22.037 3 Delete type=2 #560

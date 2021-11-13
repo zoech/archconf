@@ -1,0 +1,177 @@
+Looking for git in: git
+Using git 2.33.0 from git
+> git rev-parse --git-dir
+Open repository: /home/zoey/git/0ad
+> git status -z -u
+> git check-ignore -v -z --stdin
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/zoey/git/0ad/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git show --textconv :binaries/data/mods/public/simulation/ai/common-api/gamestate.js
+> git ls-files --stage -- /home/zoey/git/0ad/binaries/data/mods/public/simulation/ai/common-api/gamestate.js
+> git cat-file -s fafeadaff4a7f1ed598919a773d5bf3fa96db9dd
+> git show --textconv :binaries/data/mods/public/simulation/ai/common-api/entity.js
+> git ls-files --stage -- /home/zoey/git/0ad/binaries/data/mods/public/simulation/ai/common-api/entity.js
+> git cat-file -s 67fe80b2f5e40fafd9f6fbb724a3de2acd75b452
+> git show --textconv :binaries/data/mods/public/simulation/ai/common-api/gamestate.js
+> git ls-files --stage -- /home/zoey/git/0ad/binaries/data/mods/public/simulation/ai/common-api/gamestate.js
+> git cat-file -s fafeadaff4a7f1ed598919a773d5bf3fa96db9dd
+> git show --textconv :binaries/data/mods/public/simulation/ai/common-api/entity.js
+> git ls-files --stage -- /home/zoey/git/0ad/binaries/data/mods/public/simulation/ai/common-api/entity.js
+> git cat-file -s 67fe80b2f5e40fafd9f6fbb724a3de2acd75b452
+> git show --textconv :binaries/data/mods/public/simulation/ai/common-api/gamestate.js
+> git ls-files --stage -- /home/zoey/git/0ad/binaries/data/mods/public/simulation/ai/common-api/gamestate.js
+> git cat-file -s fafeadaff4a7f1ed598919a773d5bf3fa96db9dd
+> git show --textconv :binaries/data/mods/public/simulation/ai/common-api/entitycollection.js
+> git ls-files --stage -- /home/zoey/git/0ad/binaries/data/mods/public/simulation/ai/common-api/entitycollection.js
+> git cat-file -s e4251579c1555e2627d37380da6d42c732ac2cc3
+> git show --textconv :binaries/data/mods/public/simulation/ai/common-api/baseAI.js
+> git ls-files --stage -- /home/zoey/git/0ad/binaries/data/mods/public/simulation/ai/common-api/baseAI.js
+> git cat-file -s 92dfe38a59f35e46d668e832d5bb8c974462ccee
+> git check-ignore -v -z --stdin
+> git show --textconv :binaries/data/mods/public/globalscripts/Templates.js
+> git ls-files --stage -- /home/zoey/git/0ad/binaries/data/mods/public/globalscripts/Templates.js
+> git cat-file -s 411bfdf847baf954970372f030818101a76422c6
+> git show --textconv :binaries/data/mods/public/globalscripts/Technologies.js
+> git ls-files --stage -- /home/zoey/git/0ad/binaries/data/mods/public/globalscripts/Technologies.js
+> git cat-file -s c3e5148a2845f1c47f675bdf004342669c4a1394
+> git show --textconv :binaries/data/mods/public/globalscripts/StatusEffects.js
+> git ls-files --stage -- /home/zoey/git/0ad/binaries/data/mods/public/globalscripts/StatusEffects.js
+> git cat-file -s 58c30264f2957d1cec95665fd1d1d426a968d816
+> git show --textconv :binaries/data/mods/public/globalscripts/AttackEffects.js
+> git ls-files --stage -- /home/zoey/git/0ad/binaries/data/mods/public/globalscripts/AttackEffects.js
+> git cat-file -s b3665377d53c52693680629c91616dadab6583db
+> git show --textconv :binaries/data/mods/public/globalscripts/DamageTypes.js
+> git ls-files --stage -- /home/zoey/git/0ad/binaries/data/mods/public/globalscripts/DamageTypes.js
+> git cat-file -s 4a743816fb499a8e228ae18001012d6d69f1e06b
+> git show --textconv :binaries/data/mods/public/globalscripts/Formation.js
+> git ls-files --stage -- /home/zoey/git/0ad/binaries/data/mods/public/globalscripts/Formation.js
+> git cat-file -s 030844ccd12b38789f17da76b83a55b3d8e18006
+> git show --textconv :binaries/data/mods/public/globalscripts/interpolation.js
+> git ls-files --stage -- /home/zoey/git/0ad/binaries/data/mods/public/globalscripts/interpolation.js
+> git cat-file -s ea6e6c3bb2d203e619312af2c9270464f0dca4b5
+> git show --textconv :binaries/data/mods/public/globalscripts/Math.js
+> git ls-files --stage -- /home/zoey/git/0ad/binaries/data/mods/public/globalscripts/Math.js
+> git cat-file -s 2e238b6c7ecdb54632816dbc8b267a443e5d1bca
+> git show --textconv :binaries/data/mods/public/globalscripts/ModificationTemplates.js
+> git ls-files --stage -- /home/zoey/git/0ad/binaries/data/mods/public/globalscripts/ModificationTemplates.js
+> git cat-file -s e583e3b3ee2818f6ce71bead004c1ccdea399671
+> git show --textconv :binaries/data/mods/public/globalscripts/MultiKeyMap.js
+> git ls-files --stage -- /home/zoey/git/0ad/binaries/data/mods/public/globalscripts/MultiKeyMap.js
+> git cat-file -s 0d8d8a8ddb092c1018507ce891026d8aadfb7c94
+> git show --textconv :binaries/data/mods/public/globalscripts/random.js
+> git ls-files --stage -- /home/zoey/git/0ad/binaries/data/mods/public/globalscripts/random.js
+> git cat-file -s a581f13fb520fcc26076b2faddf80b6c1f836c21
+> git show --textconv :binaries/data/mods/public/globalscripts/Technologies.js
+> git ls-files --stage -- /home/zoey/git/0ad/binaries/data/mods/public/globalscripts/Technologies.js
+> git cat-file -s c3e5148a2845f1c47f675bdf004342669c4a1394
+> git show --textconv :binaries/data/mods/public/globalscripts/utility.js
+> git ls-files --stage -- /home/zoey/git/0ad/binaries/data/mods/public/globalscripts/utility.js
+> git cat-file -s 7751237446876c7e0fbf454b0c275314ba43e181
+> git show --textconv :binaries/data/mods/public/globalscripts/WeightedList.js
+> git ls-files --stage -- /home/zoey/git/0ad/binaries/data/mods/public/globalscripts/WeightedList.js
+> git cat-file -s c8950b4721a2b395aebb20afd1fd20f1651096c2
+> git show --textconv :binaries/data/mods/public/simulation/ai/common-api/class.js
+> git ls-files --stage -- /home/zoey/git/0ad/binaries/data/mods/public/simulation/ai/common-api/class.js
+> git cat-file -s 81690c78f43fc7906ad9099e1c074b636a5e1085
+> git show --textconv :binaries/data/mods/public/simulation/ai/common-api/baseAI.js
+> git ls-files --stage -- /home/zoey/git/0ad/binaries/data/mods/public/simulation/ai/common-api/baseAI.js
+> git cat-file -s 92dfe38a59f35e46d668e832d5bb8c974462ccee
+> git show --textconv :binaries/data/mods/public/simulation/ai/common-api/entity.js
+> git ls-files --stage -- /home/zoey/git/0ad/binaries/data/mods/public/simulation/ai/common-api/entity.js
+> git cat-file -s 67fe80b2f5e40fafd9f6fbb724a3de2acd75b452
+> git show --textconv :binaries/data/mods/public/simulation/ai/common-api/entitycollection.js
+> git ls-files --stage -- /home/zoey/git/0ad/binaries/data/mods/public/simulation/ai/common-api/entitycollection.js
+> git cat-file -s e4251579c1555e2627d37380da6d42c732ac2cc3
+> git show --textconv :binaries/data/mods/public/simulation/ai/common-api/filters.js
+> git ls-files --stage -- /home/zoey/git/0ad/binaries/data/mods/public/simulation/ai/common-api/filters.js
+> git cat-file -s 4520cc5b1c91e5bfd0b8178293cebc5e8e5171c4
+> git show --textconv :binaries/data/mods/public/simulation/ai/common-api/gamestate.js
+> git ls-files --stage -- /home/zoey/git/0ad/binaries/data/mods/public/simulation/ai/common-api/gamestate.js
+> git cat-file -s fafeadaff4a7f1ed598919a773d5bf3fa96db9dd
+> git show --textconv :binaries/data/mods/public/simulation/ai/common-api/entity.js
+> git ls-files --stage -- /home/zoey/git/0ad/binaries/data/mods/public/simulation/ai/common-api/entity.js
+> git cat-file -s 67fe80b2f5e40fafd9f6fbb724a3de2acd75b452
+> git show --textconv :binaries/data/mods/public/simulation/ai/common-api/gamestate.js
+> git ls-files --stage -- /home/zoey/git/0ad/binaries/data/mods/public/simulation/ai/common-api/gamestate.js
+> git cat-file -s fafeadaff4a7f1ed598919a773d5bf3fa96db9dd
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :binaries/data/mods/public/simulation/ai/common-api/entity.js
+> git ls-files --stage -- /home/zoey/git/0ad/binaries/data/mods/public/simulation/ai/common-api/entity.js
+> git cat-file -s 67fe80b2f5e40fafd9f6fbb724a3de2acd75b452
+> git show --textconv :binaries/data/mods/public/simulation/ai/common-api/class.js
+> git ls-files --stage -- /home/zoey/git/0ad/binaries/data/mods/public/simulation/ai/common-api/class.js
+> git cat-file -s 81690c78f43fc7906ad9099e1c074b636a5e1085
+> git show --textconv :binaries/data/mods/public/simulation/ai/common-api/entitycollection.js
+> git ls-files --stage -- /home/zoey/git/0ad/binaries/data/mods/public/simulation/ai/common-api/entitycollection.js
+> git cat-file -s e4251579c1555e2627d37380da6d42c732ac2cc3
+> git show --textconv :binaries/data/mods/public/simulation/ai/common-api/filters.js
+> git ls-files --stage -- /home/zoey/git/0ad/binaries/data/mods/public/simulation/ai/common-api/filters.js
+> git cat-file -s 4520cc5b1c91e5bfd0b8178293cebc5e8e5171c4
+> git show --textconv :binaries/data/mods/public/simulation/ai/common-api/gamestate.js
+> git ls-files --stage -- /home/zoey/git/0ad/binaries/data/mods/public/simulation/ai/common-api/gamestate.js
+> git cat-file -s fafeadaff4a7f1ed598919a773d5bf3fa96db9dd
+> git show --textconv :binaries/data/mods/public/simulation/ai/common-api/filters.js
+> git ls-files --stage -- /home/zoey/git/0ad/binaries/data/mods/public/simulation/ai/common-api/filters.js
+> git cat-file -s 4520cc5b1c91e5bfd0b8178293cebc5e8e5171c4
+> git show --textconv :binaries/data/mods/public/simulation/ai/common-api/class.js
+> git ls-files --stage -- /home/zoey/git/0ad/binaries/data/mods/public/simulation/ai/common-api/class.js
+> git cat-file -s 81690c78f43fc7906ad9099e1c074b636a5e1085
+> git show --textconv :binaries/data/mods/public/simulation/ai/common-api/entity.js
+> git ls-files --stage -- /home/zoey/git/0ad/binaries/data/mods/public/simulation/ai/common-api/entity.js
+> git cat-file -s 67fe80b2f5e40fafd9f6fbb724a3de2acd75b452
+> git show --textconv :binaries/data/mods/public/simulation/ai/common-api/entitycollection.js
+> git ls-files --stage -- /home/zoey/git/0ad/binaries/data/mods/public/simulation/ai/common-api/entitycollection.js
+> git cat-file -s e4251579c1555e2627d37380da6d42c732ac2cc3
+> git show --textconv :binaries/data/mods/public/globalscripts/WeightedList.js
+> git ls-files --stage -- /home/zoey/git/0ad/binaries/data/mods/public/globalscripts/WeightedList.js
+> git cat-file -s c8950b4721a2b395aebb20afd1fd20f1651096c2
+> git show --textconv :binaries/data/mods/public/globalscripts/vector.js
+> git ls-files --stage -- /home/zoey/git/0ad/binaries/data/mods/public/globalscripts/vector.js
+> git cat-file -s f4f61227397a9d777335579f3d86015e3dc8ce8e
+> git show --textconv :binaries/data/mods/public/globalscripts/utility.js
+> git ls-files --stage -- /home/zoey/git/0ad/binaries/data/mods/public/globalscripts/utility.js
+> git cat-file -s 7751237446876c7e0fbf454b0c275314ba43e181
+> git show --textconv :binaries/data/mods/public/globalscripts/Trade.js
+> git ls-files --stage -- /home/zoey/git/0ad/binaries/data/mods/public/globalscripts/Trade.js
+> git cat-file -s 6024c8e1b700873c821727991391e783ab10b89f
+> git show --textconv :binaries/data/mods/public/globalscripts/Templates.js
+> git ls-files --stage -- /home/zoey/git/0ad/binaries/data/mods/public/globalscripts/Templates.js
+> git cat-file -s 411bfdf847baf954970372f030818101a76422c6
+> git show --textconv :binaries/data/mods/public/globalscripts/Technologies.js
+> git ls-files --stage -- /home/zoey/git/0ad/binaries/data/mods/public/globalscripts/Technologies.js
+> git cat-file -s c3e5148a2845f1c47f675bdf004342669c4a1394
+> git show --textconv :binaries/data/mods/public/globalscripts/StatusEffects.js
+> git ls-files --stage -- /home/zoey/git/0ad/binaries/data/mods/public/globalscripts/StatusEffects.js
+> git cat-file -s 58c30264f2957d1cec95665fd1d1d426a968d816
+> git show --textconv :binaries/data/mods/public/globalscripts/Resources.js
+> git ls-files --stage -- /home/zoey/git/0ad/binaries/data/mods/public/globalscripts/Resources.js
+> git cat-file -s 6f45707fd5439562bee2942ba895b0bc260568f7
+> git show --textconv :binaries/data/mods/public/globalscripts/random.js
+> git ls-files --stage -- /home/zoey/git/0ad/binaries/data/mods/public/globalscripts/random.js
+> git cat-file -s a581f13fb520fcc26076b2faddf80b6c1f836c21
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :binaries/data/mods/public/simulation/ai/common-api/gamestate.js
+> git ls-files --stage -- /home/zoey/git/0ad/binaries/data/mods/public/simulation/ai/common-api/gamestate.js
+> git cat-file -s fafeadaff4a7f1ed598919a773d5bf3fa96db9dd
+> git show --textconv :binaries/data/mods/public/globalscripts/ModificationTemplates.js
+> git ls-files --stage -- /home/zoey/git/0ad/binaries/data/mods/public/globalscripts/ModificationTemplates.js
+> git cat-file -s e583e3b3ee2818f6ce71bead004c1ccdea399671
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/zoey/git/0ad/binaries/data/mods/public/globalscripts/ModificationTemplates.js
+> git show --textconv :binaries/data/mods/public/simulation/ai/common-api/gamestate.js
+> git ls-files --stage -- /home/zoey/git/0ad/binaries/data/mods/public/simulation/ai/common-api/gamestate.js
+> git cat-file -s fafeadaff4a7f1ed598919a773d5bf3fa96db9dd

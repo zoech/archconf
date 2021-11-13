@@ -1,0 +1,2 @@
+#!/bin/sh
+create_ap wlp9s0 enp0s26u1u2 EeeTheNet 90wyp0820

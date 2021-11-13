@@ -1,0 +1,32 @@
+<!DOCTYPE Menu PUBLIC '-//freedesktop//DTD Menu 1.0//EN' 'http://www.freedesktop.org/standards/menu-spec/1.0/menu.dtd'>
+<Menu>
+ <Menu>
+  <Name>Development</Name>
+  <Layout>
+   <Merge type="files"/>
+   <Filename>android-studio.desktop</Filename>
+   <Merge type="menus"/>
+   <Menuname>Translation</Menuname>
+   <Menuname>Web Development</Menuname>
+   <Filename>jetbrains-clion.desktop</Filename>
+   <Filename>cmake-gui.desktop</Filename>
+   <Filename>org.kde.cuttlefish.desktop</Filename>
+   <Filename>eclipse.desktop</Filename>
+   <Filename>jetbrains-idea.desktop</Filename>
+   <Filename>jmc-jdk8.desktop</Filename>
+   <Filename>jconsole-jdk8.desktop</Filename>
+   <Filename>jvisualvm-jdk8.desktop</Filename>
+   <Filename>org.kde.kirigami2.gallery.desktop</Filename>
+   <Filename>meld.desktop</Filename>
+   <Filename>org.kde.plasma.lookandfeelexplorer.desktop</Filename>
+   <Filename>org.kde.plasma.themeexplorer.desktop</Filename>
+   <Filename>assistant.desktop</Filename>
+   <Filename>designer.desktop</Filename>
+   <Filename>linguist.desktop</Filename>
+   <Filename>qdbusviewer.desktop</Filename>
+  </Layout>
+  <Include>
+   <Filename>android-studio.desktop</Filename>
+  </Include>
+ </Menu>
+</Menu>

@@ -1,0 +1,52 @@
+[Containments][17][General]
+AppletOrder=18
+
+[Containments][19][General]
+AppletOrder=20;21;22;23;25
+
+[Containments][24][General]
+extraItems=org.kde.plasma.clipboard,org.kde.plasma.battery,org.kde.plasma.mediacontroller,org.kde.plasma.devicenotifier,org.kde.plasma.volume,org.kde.plasma.notifications,org.kde.discovernotifier,org.kde.plasma.networkmanagement,org.kde.plasma.vault,org.kde.plasma.bluetooth
+knownItems=org.kde.plasma.clipboard,org.kde.plasma.battery,org.kde.plasma.mediacontroller,org.kde.plasma.devicenotifier,org.kde.plasma.volume,org.kde.plasma.notifications,org.kde.discovernotifier,org.kde.plasma.networkmanagement,org.kde.plasma.vault,org.kde.plasma.bluetooth
+
+[FileDialogSize]
+Height 768=622
+Width 1366=845
+
+[KFileDialog Settings]
+Recent Files[$e]=0007.jpg,file:///opt/clion/bin/clion.png,file:///opt/clion/bin/clion.svg,file:$HOME/Pictures/Wallpapers/wx2/0008.jpg,file:$HOME/Pictures/Wallpapers/wx2/0009.jpg,file:$HOME/Pictures/Wallpapers/wx2/0010.jpg,file:$HOME/Pictures/Wallpapers/wx2/0015.jpg,file:$HOME/Pictures/Wallpapers/wx2/0014.jpg,file:$HOME/Pictures/Wallpapers/wx2/0013.jpg,file:$HOME/Pictures/Wallpapers/wx2/0012.jpg,file:$HOME/Pictures/Wallpapers/wx2/0011.jpg,file:$HOME/Pictures/Wallpapers/spaces/milky_way_wellington-wallpaper-1920x1080.jpg,file:$HOME/Pictures/Wallpapers/Parallel/contents/screenshot.png,file:$HOME/Pictures/Wallpapers/Place/contents/images/2560x1080.png,file:$HOME/Pictures/Wallpapers/wx2/76.jpg,file:$HOME/Pictures/Wallpapers/wx2/0003.jpg
+Recent URLs[$e]=file:$HOME/Pictures/Wallpapers/wx2/,file:$HOME/Pictures/Wallpapers/,file:$HOME/Pictures/,file:///usr/share/archlinux/wallpaper/,file:$HOME/Pictures/Wallpapers/spaces/,file:///opt/clion/bin/,file:///opt/clion/
+
+[KPropertiesDialog]
+Height 768=456
+Width 1366=418
+
+[PlasmaRunnerManager]
+LaunchCounts=8 services_firefox.desktop,1 services_proxy.desktop,1 services_idea.desktop,1 shell_idle2 ~/tmp/test.py,6 shell_idle,18 services_visual-studio-code.desktop,2 services_about-distro.desktop,4 services_blender.desktop,1 services_Tomb Raider.desktop,5 services_shadowsocks-qt5.desktop,4 services_obs.desktop,1 services_steam-native.desktop,1 services_snes9x.desktop,10 shell_idle2,1 services_libreoffice-startcenter.desktop,1 services_ppsspp.desktop,8 services_chromium.desktop,3 services_minecraft.desktop,1 shell_clewn,28 services_leafpad.desktop,1 baloosearch_/home/zoey/Documents/struggle/generalSpecs/深入浅出设计模式(中文版).pdf,1 services_jetbrains-clion.desktop,8 services_tuxguitar.desktop,4 services_atom.desktop,2 services_gvim.desktop,2 shell_leafpad,1 bookmarks_https://my.ishadowx.net/,1 services_org.gnome.Epiphany.desktop
+pluginWhiteList=services,places,desktopsessions,PowerDevil,shell,bookmarks,recentdocuments,locations,baloosearch
+
+[PlasmaViews][Panel 17][Horizontal1366]
+thickness=27
+
+[PlasmaViews][Panel 19][Horizontal1366]
+thickness=36
+
+[PlasmaViews][Panel 2][Defaults]
+thickness=18
+
+[PlasmaViews][Panel 2][Horizontal1280]
+thickness=30
+
+[PlasmaViews][Panel 2][Horizontal1366]
+maxLength=1366
+minLength=1366
+offset=0
+thickness=18
+
+[PlasmaViews][Panel 2][Vertical768]
+thickness=30
+
+[ScreenConnectors]
+0=LVDS1
+
+[Updates]
+performed=/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/obsolete_kickoffrc.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/maintain_existing_desktop_icon_sizes.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/digitalclock_rename_timezonedisplay_key.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/containmentactions_middlebutton.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/klipper_clear_config.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/unlock_widgets.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/move_desktop_layout_config.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/systemloadviewer_systemmonitor.js
